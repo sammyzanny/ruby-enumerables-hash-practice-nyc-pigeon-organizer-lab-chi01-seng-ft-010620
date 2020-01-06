@@ -19,7 +19,7 @@ organized_pigeons = {}
   organized_pigeons
 end
 
-nyc_pigeon_organizer({
+p nyc_pigeon_organizer({
         :color => {
           :purple => ["Theo", "Peter Jr.", "Lucky"],
           :grey => ["Theo", "Peter Jr.", "Ms. K"],
